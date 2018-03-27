@@ -1,0 +1,7 @@
+{
+    "name": "inovcorp/test",
+    "autoload": {
+        "psr-0" : {
+            "inovcorp\\test" : "src"
+        }
+    }
