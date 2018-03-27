@@ -1,6 +1,7 @@
 {
     "name": "inovcorp/test",
     "version": "dev-master",
+    "minimum-stability": "dev",
     "source": {
         "url": "git://github.com/inovcorp/test.git",
         "type": "git",
