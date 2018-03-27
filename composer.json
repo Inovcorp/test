@@ -1,16 +1,10 @@
 {
-    "name": "inovcorp/test",
-    "autoload": {
-        "psr-0" : {
-            "inovcorp\\test" : "src"
-        }
-    },
     "repositories": [
         {
             "type": "package",
             "package": {
                 "name": "inovcorp/test",
-                "version": "master",
+                "version": "dev-master",
                 "source": {
                     "url": "git://github.com/inovcorp/test.git",
                     "type": "git",
