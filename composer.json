@@ -10,7 +10,7 @@
             "type": "package",
             "package": {
                 "name": "inovcorp/test",
-                "version": "dev-master",
+                "version": "master",
                 "source": {
                     "url": "git://github.com/inovcorp/test.git",
                     "type": "git",
