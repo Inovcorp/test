@@ -1,0 +1,13 @@
+{
+    "name": "inovcorp/test",
+    "description": "testing packages",
+    "type": "laravel",
+    "authors": [
+        {
+            "name": "Filipe Lopes",
+            "email": "filipe@designbinario.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
