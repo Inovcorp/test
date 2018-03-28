@@ -9,11 +9,6 @@
         }
     ],
     "minimum-stability": "dev",
-    "autoload": {
-        "psr-4" : {
-            "Inovcorp\\Test\\": "vendor/inovcorp/test"
-        }
-    },
     "extra": {
         "laravel": {
             "providers": [
