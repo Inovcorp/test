@@ -1,6 +1,6 @@
 {
     "name": "inovcorp/test",
-    "description": "testing packages changes",
+    "description": "testing packages changes that will register",
     "type": "laravel",
     "authors": [
         {
